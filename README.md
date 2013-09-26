@@ -7,14 +7,14 @@ Goal: recruit new players and encourage people to join the SD Enlightenment effo
 
 MVP (Minimum viable product):
 
-[]Splash page
-[]Link to G+ group
-[]Link to Ingress.com
-[]About SDE/Enlightened - Why they should join us
-[]Request an invite?
+- [ ] Splash page
+- [ ] Link to G+ group
+- [ ] Link to Ingress.com
+- [ ] About SDE/Enlightened - Why they should join us
+- [ ] Request an invite?
 
 Needs:
 
-*Designers
-*Copy writers
-*Ideas regarding what a new player needs
+-Designers
+-Copy writers
+-Ideas regarding what a new player needs
