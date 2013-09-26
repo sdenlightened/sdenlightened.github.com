@@ -15,6 +15,6 @@ MVP (Minimum viable product):
 
 Needs:
 
--Designers
--Copy writers
--Ideas regarding what a new player needs
+- Designers
+- Copy writers
+- Ideas regarding what a new player needs
